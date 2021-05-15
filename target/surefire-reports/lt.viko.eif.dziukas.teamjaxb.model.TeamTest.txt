@@ -1,0 +1,130 @@
+-------------------------------------------------------------------------------
+Test set: lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 21, Errors: 0, Skipped: 0, Time elapsed: 0.022 sec <<< FAILURE!
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetHeadCoach()  Time elapsed: 0.01 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetHeadCoach(TeamTest.java:233)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetConference()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetConference(TeamTest.java:90)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTeamName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTeamName(TeamTest.java:66)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetPlayers()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Players
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetPlayers(TeamTest.java:268)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetLocation()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetLocation(TeamTest.java:42)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetLocation()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetLocation(TeamTest.java:56)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetArena()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetArena(TeamTest.java:186)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testToString()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testToString(TeamTest.java:279)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTeamColors()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTeamColors(TeamTest.java:210)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTitleCount()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTitleCount(TeamTest.java:176)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetFounded()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetFounded(TeamTest.java:138)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetHeadCoach()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetHeadCoach(TeamTest.java:245)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetPlayers()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetPlayers(TeamTest.java:256)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetConference()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetConference(TeamTest.java:104)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetDivision()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetDivision(TeamTest.java:128)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetFounded()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetFounded(TeamTest.java:152)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTeamName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTeamName(TeamTest.java:80)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetArena()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetArena(TeamTest.java:200)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTeamColors()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class TeamColors
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testSetTeamColors(TeamTest.java:222)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetDivision()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetDivision(TeamTest.java:114)
+
+lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTitleCount()  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Team
+  location: class lt.viko.eif.dziukas.teamjaxb.model.TeamTest
+	at lt.viko.eif.dziukas.teamjaxb.model.TeamTest.testGetTitleCount(TeamTest.java:162)
+

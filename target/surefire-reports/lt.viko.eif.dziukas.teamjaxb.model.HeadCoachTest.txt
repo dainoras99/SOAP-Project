@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachSurname()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachSurname(HeadCoachTest.java:65)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachSurname()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachSurname(HeadCoachTest.java:51)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachAge()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachAge(HeadCoachTest.java:89)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachName(HeadCoachTest.java:27)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachAge()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testGetCoachAge(HeadCoachTest.java:75)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testToString()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testToString(HeadCoachTest.java:99)
+
+lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class HeadCoach
+  location: class lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest
+	at lt.viko.eif.dziukas.teamjaxb.model.HeadCoachTest.testSetCoachName(HeadCoachTest.java:41)
+

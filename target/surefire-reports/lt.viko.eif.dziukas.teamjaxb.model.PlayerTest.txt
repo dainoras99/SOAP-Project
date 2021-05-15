@@ -1,0 +1,82 @@
+-------------------------------------------------------------------------------
+Test set: lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE!
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerSurname()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerSurname(PlayerTest.java:65)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerSurname()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerSurname(PlayerTest.java:51)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerAge()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerAge(PlayerTest.java:89)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPlayerName(PlayerTest.java:41)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetHeight()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetHeight(PlayerTest.java:123)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetHeight()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetHeight(PlayerTest.java:137)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPosition()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPosition(PlayerTest.java:99)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerAge()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerAge(PlayerTest.java:75)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetPlayerName(PlayerTest.java:27)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPosition()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetPosition(PlayerTest.java:113)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetWeight()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testGetWeight(PlayerTest.java:147)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetWeight()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testSetWeight(PlayerTest.java:161)
+
+lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testToString()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - cannot find symbol
+  symbol:   class Player
+  location: class lt.viko.eif.dziukas.teamjaxb.model.PlayerTest
+	at lt.viko.eif.dziukas.teamjaxb.model.PlayerTest.testToString(PlayerTest.java:171)
+

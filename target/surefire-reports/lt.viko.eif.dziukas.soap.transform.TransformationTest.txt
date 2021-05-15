@@ -1,0 +1,166 @@
+-------------------------------------------------------------------------------
+Test set: lt.viko.eif.dziukas.soap.transform.TransformationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.357 sec <<< FAILURE!
+lt.viko.eif.dziukas.soap.transform.TransformationTest.testTransformToPOJO()  Time elapsed: 0.339 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <
+Team: 
+	teamName: null 
+	location: null 
+	conference: null 
+	division: null 
+	founded: null 
+	titleCount: null 
+	arena: null 
+	teamColors: null 
+	headCoach: null 
+	players: null> but was: <
+Team: 
+	teamName: Clippers 
+	location: Los Angeles 
+	conference: Western 
+	division: Pacific 
+	founded: 1947 
+	titleCount: 18 
+	arena: Staples Center 
+	teamColors: 
+		teamColor[Purple, Gold, Black] 
+	headCoach: 
+		coachName: Frank 
+		coachSurname:Vogel 
+		coachAge: 47 
+	players: 
+		 player:[
+			playerName: LeBron 
+			playerSurname: James 
+			playerAge: 36 
+			tposition: F 
+			height: 206 
+			weight: 113 
+, 
+			playerName: Alex 
+			playerSurname: Caruso 
+			playerAge: 27 
+			tposition: G 
+			height: 196 
+			weight: 84 
+, 
+			playerName: Kostas 
+			playerSurname: Antetekoumpo 
+			playerAge: 23 
+			tposition: F 
+			height: 208 
+			weight: 91 
+, 
+			playerName: Kentavious 
+			playerSurname: Cardwell-Pope 
+			playerAge: 28 
+			tposition: G 
+			height: 196 
+			weight: 93 
+, 
+			playerName: Jared 
+			playerSurname: Dudley 
+			playerAge: 36 
+			tposition: F 
+			height: 198 
+			weight: 108 
+, 
+			playerName: Montrezl 
+			playerSurname: Harrell 
+			playerAge: 27 
+			tposition: C 
+			height: 201 
+			weight: 109 
+, 
+			playerName: Kyle 
+			playerSurname: Kuzma 
+			playerAge: 25 
+			tposition: F 
+			height: 203 
+			weight: 100 
+, 
+			playerName: Markieff 
+			playerSurname: Morris 
+			playerAge: 32 
+			tposition: F 
+			height: 203 
+			weight: 111 
+, 
+			playerName: Andre 
+			playerSurname: Drummond 
+			playerAge: 27 
+			tposition: C 
+			height: 207 
+			weight: 127 
+, 
+			playerName: Dainoras 
+			playerSurname: Ziukas 
+			playerAge: 22 
+			tposition: PG 
+			height: 195 
+			weight: 110 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+, 
+			playerName: Marc 
+			playerSurname: Gasol 
+			playerAge: 34 
+			tposition: C 
+			height: 206 
+			weight: 120 
+]>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:54)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:184)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:179)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:508)
+	at lt.viko.eif.dziukas.soap.transform.TransformationTest.testTransformToPOJO(TransformationTest.java:46)
+
